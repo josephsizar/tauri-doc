@@ -32,7 +32,10 @@ bunx tauri init
 ```sh
 bun run build
 ```
-
+## start dev for tauri
+```sh
+bunx tauri dev
+```
 
 
 
