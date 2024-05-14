@@ -25,6 +25,7 @@ bunx tauri init
 ```json
 "distDir":  from "../build" to "../dist"
 "identifier": from "com.tauri.dev" to "com.example.tauri"
+```
 
 ## after that open terminal
 
