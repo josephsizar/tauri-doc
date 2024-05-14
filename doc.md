@@ -21,3 +21,19 @@ bun add --dev @tauri-apps/cli
 ```sh
 bunx tauri init
 ```
+## some changes in src-tauri/tauri.config.json
+```json
+"distDir":  from "../build" to "../dist"
+"identifier": from "com.tauri.dev" to "com.example.tauri"
+
+## after that open terminal
+
+```sh
+bun run build
+```
+
+
+
+
+
+
