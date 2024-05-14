@@ -36,7 +36,11 @@ bun run build
 ```sh
 bunx tauri dev
 ```
+## packaging the application 📦️
 
+```sh
+bunx tauri build
+```
 
 
 
